@@ -1,4 +1,4 @@
-# Hand-Gesture-Recognition
+# Hand Gesture Recognition
 
 Hybrid deep learning model combining **CNN** for feature extraction and **GNN** for spatial relationship modeling to classify hand gestures.
 
